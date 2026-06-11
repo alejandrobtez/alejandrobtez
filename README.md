@@ -22,7 +22,7 @@ Trabajo con el ecosistema **Azure** de punta a punta: desde pipelines de datos h
 alejandro = {
     "ubicación":    "Madrid 🇪🇸",
     "rol":          "Azure Data & AI Engineer",
-    "en_constante": ["aprendizaje", "construcción", "contribución"],
+    "en_constante": ["aprendizaje"],
     "buscando":     "oportunidades en Data / AI / Cloud"
 }
 ```
